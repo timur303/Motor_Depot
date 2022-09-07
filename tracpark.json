@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Volvo",
+    "drivers": " ",
+    "states": "REMOTE"
+  },
+  {
+    "id": 2,
+    "name": "MAN",
+    "drivers": " ",
+    "states": "BASE"
+  },
+  {
+    "id": 3,
+    "name": "DAF-X",
+    "drivers": " ",
+    "states": "BASE"
+  }
+]
